@@ -21,7 +21,7 @@
     ],
     "author": "Alex Mucenic",
     "license": "ISC",
-    "homepage": "https://github.com/AlexandruMucenic/node-api-example.git",
+    "homepage": "https://github.com/AlexandruMucenic/node-api-example#readme",
     "devDependencies": {
         "@types/bcrypt": "^5.0.0",
         "@types/cors": "^2.8.13",
